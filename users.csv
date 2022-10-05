@@ -1,0 +1,16 @@
+﻿id;nome;idade;localizacao
+1;Joao;33;{'cidade':'Sao Paulo','estado':'SP','bairro':'Lapa'}
+2;Jose;55;
+3;Maria;49;{'cidade':'Sao Paulo','estado':'SP','bairro':'Moema'}
+4;Pedro;21;{'cidade':'Sao Paulo','estado':'SP','bairro':'Vila Olímpia'}
+5;Gabriel;36;{'cidade':'Rio de Janeiro','estado':'RJ','bairro':'Lapa'}
+6;Mariana;57;
+7;Bruna;48;{'cidade':'Rio de Janeiro','estado':'RJ','bairro':'Santa Teresa'}
+8;Matheus;54;{'cidade':'Sao Paulo','estado':'SP','bairro':'Saúde'}
+9;Rodrigo;36;{'cidade':'Sao Paulo','estado':'SP','bairro':'Morumbi'}
+10;Rafael;43;{'cidade':'Belo Horizonte','estado':'MG','bairro':'Savassi'}
+11;Natalia;46;{'cidade':'Belo Horizonte','estado':'MG','bairro':'Centro'}
+12;Marta;40;
+13;Jose;49;{'cidade':'Sao Bernardo do Campo','estado':'SP','bairro':'Demarchi'}
+14;Enzo;28;{'cidade':'Belo Horizonte','estado':'MG','bairro':'Bonfim'}
+15;Silvana;45;{'cidade':'Sao Paulo','estado':'SP','bairro':'Mooca'}
